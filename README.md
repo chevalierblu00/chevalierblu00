@@ -1,9 +1,9 @@
 ![Capture](https://user-images.githubusercontent.com/113120254/190870218-387c0565-6e53-4c9d-8d80-b668b7ca5aa1.JPG)
 
-# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Hi, I’m  Martin GASAPRD  étudiant a  l'IIM. Je suis interrée par le code, le surf ainisi que par divers domaine scientifique.
+# bonjour <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+salut, je m'appelle Martin GASAPRD et je suis un étudiant a  l'IIM. Je suis interrée par le code, le surf ainisi que par divers domaine scientifique.
 
-# competance
+# compétences
  
 <img src="https://user-images.githubusercontent.com/113120254/190868590-46e00b6e-aa44-4043-bf59-bd902f38920e.png" width="100px"> <img src="https://user-images.githubusercontent.com/113120254/190868715-e68944f9-6eb0-410d-bb05-435ee2bf55e1.png" width="100px"> <img src="https://user-images.githubusercontent.com/113120254/190868491-dd133153-d805-4ab2-8b1e-649108091914.png" width="100px"> <img src="https://user-images.githubusercontent.com/113120254/190868655-1b05a7a2-4ea9-4b75-9bd0-c119d817b04b.png" width="100px"> 
 
