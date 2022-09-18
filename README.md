@@ -1,6 +1,6 @@
 
 # bonjour <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-salut, je m'appelle Martin GASAPRD et je suis un étudiant a  l'IIM. Je suis interrée par le code, le surf ainisi que par divers domaine scientifique.
+salut, je m'appelle Martin GASPARD et je suis un étudiant a  l'IIM. Je suis interrée par le code, le surf ainisi que par divers domaine scientifique.
 
 # compétences
  
