@@ -1,4 +1,3 @@
-![Capture](https://user-images.githubusercontent.com/113120254/190870218-387c0565-6e53-4c9d-8d80-b668b7ca5aa1.JPG)
 
 # bonjour <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 salut, je m'appelle Martin GASAPRD et je suis un étudiant a  l'IIM. Je suis interrée par le code, le surf ainisi que par divers domaine scientifique.
