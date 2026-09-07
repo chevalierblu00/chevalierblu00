@@ -1,6 +1,6 @@
 Bonjour <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Je m'appelle Martin GASPARD, développeur web fraîchement diplômé du Mastère Ingénierie Web et Mobile à l'IIM, avec 3 ans d'expérience en alternance. Je suis passionné par le code, les jeux vidéo, ainsi que par divers domaines scientifiques comme la physique quantique. Je pratique occasionnellement le surf.
+Je m'appelle Martin GASPARD, développeur web récemment diplômé du Mastère Ingénierie Web et Mobile à l'IIM, avec 3 ans d'expérience en alternance. Je suis passionné par le code, les jeux vidéo, ainsi que par divers domaines scientifiques comme la physique quantique. Je pratique occasionnellement le surf.
 
 Je suis actuellement à la recherche d'un poste de développeur pour mettre à profit mes compétences. 🚀
 
